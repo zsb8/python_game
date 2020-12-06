@@ -1,3 +1,5 @@
+#version2
+
 import sys
 import pygame
 from settings import Settings
